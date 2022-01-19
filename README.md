@@ -1,0 +1,2 @@
+# picom
+picom configuration file
